@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "turbo-cli": "^0.38.11"
+  }
+}
